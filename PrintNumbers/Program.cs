@@ -27,7 +27,7 @@ namespace PrintNumbers
             Print1(n);          
             Console.Write(n + "\n \n");
             Console.Write("Numbers are:");
-            Print2(n);          
+            Print2(n);      
             Console.Write(n + " ");
 
         }
